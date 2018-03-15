@@ -16,7 +16,7 @@
 
 
         <form action="listaSequencial.php" method="post">
-            <h3>Exercicio Estrutura sequencial <h3/><br />
+            <h3>Exercicio Estrutura sequencial </h3><br />
                 <div class="form-group col-md-3" id="ex3">
                     <p> Exercicio 3 "Soma"<br /><br /> </p>
                     <label for="n1">Digite o primeiro número</label>
