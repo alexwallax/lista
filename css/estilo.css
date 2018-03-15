@@ -16,7 +16,7 @@ html ,body, .capa {
 body {
     background: url("../img/fut10.jpg") no-repeat, /* colocando dois backgrounds com esses dois urls */
         url('../img/ruido.png'), /* isso é possivel pq elas estão ambas com opacidade */
-        linear-gradient(100deg,#01DF74, #01DF3A); /* Essa linha de codigo vai colocar um gradiente */
+        linear-gradient(100deg, #faebcc, #d9edf7); /* Essa linha de codigo vai colocar um gradiente */
     background-attachment: fixed; /* faz com que o background de fundo fique parado */
     font-family: Helvetica,Arial,sans-serif;
     /*  overflow-x: hidden;  remove a barra de navegação na horizontal */
@@ -26,7 +26,7 @@ body {
 
 #ex3 {
     text-align: center;
-    background-color: #46b8da;
+    background-color: #5cb85c;
     width: 400px;
     height: 300px;
 }
@@ -34,7 +34,7 @@ body {
 #ex4 {
     float: left;
     text-align: center;
-    background-color: yellowgreen;
+    background-color: background;
     width: 400px;
     height: 300px;
 }
